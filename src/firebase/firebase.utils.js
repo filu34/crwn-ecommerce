@@ -36,10 +36,6 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
     }
   }
 
-  console.log(snapShot);
-  console.log(userAuth);
-  console.log(firestore.doc('users/128fdashadu'));
-
   return userRef;
 }
 
