@@ -1,5 +1,7 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
+import 'firebase/firestore';
+import 'firebase/firestore';
 
 const firestore = firebase.firestore();
 
@@ -22,3 +24,5 @@ const users = {
     }
 
 }
+
+Short brake. ;) We will be back in a moment.
