@@ -61,7 +61,7 @@ class App extends React.Component {
               ) : (
                 <SignInAndSingUpPage/>
               )
-          } />        
+          } />
         </Switch>
       </div>
     );
